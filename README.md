@@ -2,4 +2,4 @@ fuga
 add
 first
 second
-hogeBranch
+fugaadd
